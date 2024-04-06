@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm an undergraduate @ Computer Engineering and Informatics Department, University of Patras.
+- I'm currently learning Flutter & Dart.
+  
